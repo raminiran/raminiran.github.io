@@ -9,6 +9,8 @@
   
 |[edit-index](https://github.com/panisa-cake/panisa-cake.github.io/edit/main/index.html)|[edit-css-min](https://github.com/panisa-cake/panisa-cake.github.io/edit/main/css/panisa.css)|[css-all](https://github.com/panisa-cake/panisa-cake.github.io/tree/main/css/)|[ADD IMG](https://github.com/panisa-cake/panisa-cake.github.io/upload/main/images)|
 |:---:|:---:|:---:|:---:|
+|[ADD PEG](https://github.com/panisa-cake/panisa-cake.github.io/new/main/p/)|[`SET`](set.html)|[`INDEX`](index.html)|[CSS`](css/panisa.css)|
+
 </div>
 <!--<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panisa-cake&title_color=79ff97&icon_color=63a2ff&text_color=fff&bg_color=151515&hide=css%2Chtml&layout=compact" /><img width="40%" src="https://github-readme-stats.vercel.app/api?username=panisa-cake&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=contribs" />-->
 
