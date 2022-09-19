@@ -292,8 +292,9 @@ input:focus, textarea:focus, select:focus {
 #headerPanelMenu-logo img {
     border-width: 0;
     height: auto;
-    padding: 10px 15px 10px 15px;
     max-width: 100%;
+    border-radius: 50%;
+    filter: drop-shadow(2px 4px 6px black);
 }
 
 #headerBreadcrumb {
@@ -1787,8 +1788,7 @@ h6, .h6 {
 }
 
 .box-r {
-    text-decoration: none;
-    background-color: #000000;
+    background: linear-gradient(141deg, rgb(255 255 255 / 70%), rgb(255 255 255 / 50%));
 }
 
 .txt {
@@ -1926,12 +1926,10 @@ h6, .h6 {
 }
 
 .box {
-    text-decoration: none;
-    background-color: transparent;
-    width: 80%;
-    position: absolute;
-    height: 200px;
-    margin-top: 60px;
+    background: #fff;
+    color: #0078f5;
+   box-shadow: 0px -1px 8px #808080;
+    border-radius: 5px;
 }
 
 .hool {
