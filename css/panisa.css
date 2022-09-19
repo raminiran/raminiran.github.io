@@ -146,7 +146,7 @@ input:focus, textarea:focus, select:focus {
     list-style: none;
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 0 8px 65px 8px;
 }
 
 #headerPanelMenu_markup li a, #headerPanelMenu_markup li a:hover {
@@ -286,13 +286,13 @@ input:focus, textarea:focus, select:focus {
 
 #headerPanelMenu-logo {
     border-width: 0;
-    padding: 10px 15px 10px 15px;
     text-align: left;
 }
 
 #headerPanelMenu-logo img {
     border-width: 0;
     height: auto;
+    padding: 10px 15px 10px 15px;
     max-width: 100%;
 }
 
