@@ -1,0 +1,28 @@
+Lorem  Ipsum
+Dolor  Sit  Amet
+Consectetur  Adipiscing  Elit
+Integer  Nec  Odio
+Praesent  Libero
+Sed  Cursus
+Ante  Dapibus  Diam
+Nulla  Quis  Sem
+Nibh  Elementum  Imperdiet
+Duis  Sagittis  Ipsum
+Praesent  Mauris
+Fusce  Nec  Tellus
+
+
+Augue  semper  porta
+Mauris  Massa
+Vestibulum  Lacinia
+Arcu  Eget  Nulla
+Class  Aptent
+Aaciti  Sociosqu
+
+Litora  Torquent
+Conubia  Nostra
+Keptos  Himenaeos
+Curabitur  Sodales
+Ligula  In  Libero
+
+Copyright © Footer 2018. All right reserved.
