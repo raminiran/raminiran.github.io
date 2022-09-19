@@ -6,7 +6,7 @@
 */
 
 body {
-    background-color: #000000;
+    background-color: #f1f1f1;
     background-image: url('../images/index-panisa_bkgrnd.png');
     background-repeat: repeat-y;
     color: #000000;
@@ -1930,6 +1930,14 @@ h6, .h6 {
     color: #0078f5;
    box-shadow: 0px -1px 8px #808080;
     border-radius: 5px;
+}
+
+.box-1 {
+    height: 500px;
+    padding: 40px 0;
+    box-shadow: 0 0 25px -15px;
+    background: #fff;
+    border-radius: 25px;
 }
 
 .hool {
