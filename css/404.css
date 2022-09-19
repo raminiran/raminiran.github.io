@@ -1,0 +1,26 @@
+.site {
+    margin: 300px auto;
+    display: table-row;;
+}
+
+.box-1-p {
+    background: #fff;
+    border-radius: 25px;
+    width: 100%;
+}
+
+.img-p {
+   
+    height: 100%;
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+}
+
+.text-p {
+    padding: 5px;
+    margin: 10px 50px;
+}
+
+.text-center-p {
+    text-align: center;
+}
