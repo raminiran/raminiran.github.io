@@ -1788,7 +1788,7 @@ h6, .h6 {
 }
 
 .box-r {
-    background: linear-gradient(141deg, rgb(255 255 255 / 70%), rgb(255 255 255 / 50%));
+/*     background: linear-gradient(141deg, rgb(255 255 255 / 70%), rgb(255 255 255 / 50%)); */
 }
 
 .txt {
