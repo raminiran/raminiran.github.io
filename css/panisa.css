@@ -424,9 +424,16 @@ input:focus, textarea:focus, select:focus {
     line-height: 1;
 }
 
-.searchOpen:before {
-    content: "\e8b6";
-}
+/* .searchOpen: { 
+    color: #FFFFFF;
+    display: inline-block;
+    font-size: 33px;
+    line-height: 35px;
+    vertical-align: middle;
+    width: 32px;
+} 
+
+*/
 
 #searchOpen i {
     color: #FFFFFF;
