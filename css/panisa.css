@@ -7,7 +7,7 @@
 
 body {
     background-color: #f1f1f1;
-    background-image: url('../images/index-panisa_bkgrnd.png');
+    background-image: url('.*./images/index-panisa_bkgrnd.png');
     background-repeat: repeat-y;
     color: #000000;
     font-family: Arial;
@@ -457,7 +457,7 @@ input:focus, textarea:focus, select:focus {
     text-align: center;
     width: 100%;
     background-color: transparent;
-/*     background-image: url('../images/freeway800.jpg'); */
+/*     background-image: url('.*./images/freeway800.jpg'); */
     background-image: url('https://github.com/panisa-cake/panisa-cake.github.io/raw/main/images/freeway800.jpg');
     background-repeat: repeat;
     background-position: center center;
@@ -581,7 +581,7 @@ input:focus, textarea:focus, select:focus {
     text-align: center;
     width: 100%;
     background-color: transparent;
-/*     background-image: url('../images/97213-abstract-3D-hexagon-digital-art-geometry-neon-cyan-blue.jpg'); */
+/*     background-image: url('.*./images/97213-abstract-3D-hexagon-digital-art-geometry-neon-cyan-blue.jpg'); */
    background-image: url('https://github.com/panisa-cake/panisa-cake.github.io/raw/main/images/97213-abstract-3D-hexagon-digital-art-geometry-neon-cyan-blue.jpg');
     background-repeat: repeat;
     background-position: center center;
@@ -904,21 +904,24 @@ input:focus, textarea:focus, select:focus {
 
 #Carousel1 .frame-1 {
     background-color: #00BFFF;
-    background-image: url('../images/163415-blue-bokeh-dots-texture-cyan.jpg');
+/*     background-image: url('.*./images/163415-blue-bokeh-dots-texture-cyan.jpg'); */
+    background-image: url('https://github.com/panisa-cake/panisa-cake.github.io/raw/main/images/163415-blue-bokeh-dots-texture-cyan.jpg');
     background-repeat: repeat;
     background-position: left top;
 }
 
 #Carousel1 .frame-2 {
     background-color: #00BFFF;
-    background-image: url('../images/102401-abstract-dots-cyan-blue-violet-head.jpg');
+/*     background-image: url('.*./images/102401-abstract-dots-cyan-blue-violet-head.jpg'); */
+    background-image: url('https://github.com/panisa-cake/panisa-cake.github.io/raw/main/images/102401-abstract-dots-cyan-blue-violet-head.jpg');
     background-repeat: repeat;
     background-position: left top;
 }
 
 #Carousel1 .frame-3 {
     background-color: #00BFFF;
-    background-image: url('../images/164746-soft-gradient-gradient-abstract-blue-cyan.png');
+/*     background-image: url('.*./images/164746-soft-gradient-gradient-abstract-blue-cyan.png'); */
+   background-image: url('https://github.com/panisa-cake/panisa-cake.github.io/raw/main/images/102401-abstract-dots-cyan-blue-violet-head.jpg');
     background-repeat: repeat;
     background-position: left top;
 }
@@ -1061,7 +1064,7 @@ input:focus, textarea:focus, select:focus {
     text-align: center;
     width: 100%;
     background-color: transparent;
-/*     background-image: url('../images/151108-gradient-vector-blue-purple-lines-square-geometry-abstract.jpg'); */
+/*     background-image: url('.*./images/151108-gradient-vector-blue-purple-lines-square-geometry-abstract.jpg'); */
    background-image: url('https://github.com/panisa-cake/panisa-cake.github.io/raw/main/images/151108-gradient-vector-blue-purple-lines-square-geometry-abstract.jpg');
     background-repeat: no-repeat;
     background-position: center center;
