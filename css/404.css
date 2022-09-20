@@ -29,3 +29,7 @@
 .text-p.text-center-p {
     display: contents;
 }
+
+.box-1-p.box-1-p-404 {
+    margin: 0 0 100px 0;
+    display: unset;
