@@ -457,7 +457,8 @@ input:focus, textarea:focus, select:focus {
     text-align: center;
     width: 100%;
     background-color: transparent;
-    background-image: url('../images/freeway800.jpg');
+/*     background-image: url('../images/freeway800.jpg'); */
+    background-image: url('https://github.com/panisa-cake/panisa-cake.github.io/raw/main/images/freeway800.jpg');
     background-repeat: repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -580,7 +581,8 @@ input:focus, textarea:focus, select:focus {
     text-align: center;
     width: 100%;
     background-color: transparent;
-    background-image: url('../images/97213-abstract-3D-hexagon-digital-art-geometry-neon-cyan-blue.jpg');
+/*     background-image: url('../images/97213-abstract-3D-hexagon-digital-art-geometry-neon-cyan-blue.jpg'); */
+   background-image: url('https://github.com/panisa-cake/panisa-cake.github.io/raw/main/images/97213-abstract-3D-hexagon-digital-art-geometry-neon-cyan-blue.jpg');
     background-repeat: repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -1059,7 +1061,8 @@ input:focus, textarea:focus, select:focus {
     text-align: center;
     width: 100%;
     background-color: transparent;
-    background-image: url('../images/151108-gradient-vector-blue-purple-lines-square-geometry-abstract.jpg');
+/*     background-image: url('../images/151108-gradient-vector-blue-purple-lines-square-geometry-abstract.jpg'); */
+   background-image: url('https://github.com/panisa-cake/panisa-cake.github.io/raw/main/images/151108-gradient-vector-blue-purple-lines-square-geometry-abstract.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
