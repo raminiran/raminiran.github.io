@@ -33,3 +33,14 @@
 .box-1-p.box-1-p-404 {
     margin: 0 0 100px 0;
     display: unset;
+}
+
+.text-p-404-1 {
+    padding: 0 20px 20px 20px;
+    margin: 0 20px auto;
+    font-size: large;
+    position: absolute;
+    top: 410px;
+    right: 0px;
+    color: red;
+}
