@@ -192,6 +192,8 @@ input:focus, textarea:focus, select:focus {
     font-style: italic;
     text-decoration: none;
     text-align: left;
+    z-index: 3;
+    border-radius: 10px;
 }
 
 #headerPanelMenu_markup li a {
@@ -1698,7 +1700,7 @@ input:focus, textarea:focus, select:focus {
 }
 
 #headerPanelMenu_panel {
-    margin-top: 65px;
+/*     margin-top: 65px; */
 }
 
 #headerPanelMenu-footer {
