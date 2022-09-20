@@ -17,8 +17,9 @@
 }
 
 .text-p {
-    padding: 5px;
-    margin: 10px 50px;
+    height: 50vh;
+    width: 100%;
+    border-radius: 20px 20px 30px 30px;
 }
 
 .text-center-p {
