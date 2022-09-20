@@ -24,3 +24,7 @@
 .text-center-p {
     text-align: center;
 }
+
+.text-p.text-center-p {
+    display: contents;
+}
