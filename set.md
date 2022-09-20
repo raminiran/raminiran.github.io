@@ -3,18 +3,19 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>صحفه </title>
+        <title>خانه</title>
         <meta name="generator" content="WYSIWYG Web Builder 17 - https://www.wysiwygwebbuilder.com">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href="fontawesome/css/all.css" rel="stylesheet">
-        <link href="css/panisa.css" rel="stylesheet">
-        <script src="js/jquery-3.6.0.min.js"></script>
-        <script src="js/wb.panel.min.js"></script>
-        <script src="js/jquery-ui.min.js"></script>
-        <script src="js/wb.parallax.min.js"></script>
-        <script src="js/util.min.js"></script>
-        <script src="js/carousel.min.js"></script>
-        <script src="js/wwb17.min.js"></script>
+        <link href="/fontawesome/css/all.css" rel="stylesheet">
+        <link href="/css/panisa.css" rel="stylesheet">
+        <link href="/css/hover.css" rel="stylesheet">
+        <script src="/js/jquery-3.6.0.min.js"></script>
+        <script src="/js/wb.panel.min.js"></script>
+        <script src="/js/jquery-ui.min.js"></script>
+        <script src="/js/wb.parallax.min.js"></script>
+        <script src="/js/util.min.js"></script>
+        <script src="/js/carousel.min.js"></script>
+        <script src="/js/wwb17.min.js"></script>
          <script> 
             $(document).ready(function() {
                 $("#headerPanelMenu").panel({
@@ -51,7 +52,7 @@
                             </a>
                             <div id="headerPanelMenu_markup">
                                 <div id="headerPanelMenu-logo">
-                                    <img alt="" src="images/log-d-500px.png">
+                                    <img alt="" src="https://github.com/panisa-cake/panisa-cake.github.io/raw/main/images/log-d-500px.png">
                                 </div>
                                 <ul role="menu">
                                     <li role="menuitem">
@@ -61,7 +62,7 @@
                                         </a>
                                     </li>
                                     <li role="menuitem">
-                                        <a href="#projects" class="nav-link">
+                                        <a href="grouping" class="nav-link">
                                             <i class="fas fa-file-text fa-fw"></i>
                                             <span> دسته بندی ها </span>
                                         </a>
@@ -124,11 +125,10 @@
                 <div class="row">
                     <div class="col-1">
                         <div id="wb_Heading5" style="display:inline-block;width:100%;z-index:5;">
-                            <h1 id="Heading5">تیتر اول</h1>
+                            <h1 id="Heading5" class="hid-p">panisa cake</h1>
                         </div>
                         <div id="wb_Heading6" style="display:inline-block;width:100%;z-index:6;">
-                            <h2 id="Heading6">متن تیتر ----------------------------------------------------------------------------------------------------------------------------- متن تیتر </h2>
-                        </div>
+                            <h2 id="Heading6">انواع دسر و شیرنی های خوشمزه در پانیسا کیک</div>
                     </div>
                 </div>
             </div>
@@ -199,7 +199,7 @@
                                 <br>
                             </span>
                         </div>
-                        <input type="submit" id="Button1" name="" value="More Info" style="display:inline-block;width:156px;height:37px;z-index:12;">
+                        <input type="submit" id="Button1" name="" value="ادامه مطلب" style="display:inline-block;width:156px;height:37px;z-index:12;">
                     </div>
                 </div>
             </div>
@@ -210,29 +210,9 @@
                 <div class="row">
                     <div class="col-1">
                         <div id="wb_Text8" class="box-r">
-                            <span style="color:#FFFFFF;font-family:Arial;font-size:21px;">
-                                Double click to edihi mr lkpvejoljvlkhskjhcsjkbshguqycjn wsujhgcujxzhvwa zujhgqaduvcz mneuhygcwscs <br>
-                                jhgis<br>
-                                jighiuwg <br>
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                igwiuvg<br>jkhvwiuvg
-                            </span>
+                            <div class="box-1"> 
+                                <h1></h1>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -244,7 +224,7 @@
                     <div class="col-1">
                         <div id="wb_Text1">
                             <span style="color:#FFFFFF;font-family:Arial;font-size:19px;">
-                                <strong>Info</strong>
+                                <strong>اطاعات</strong>
                             </span>
                         </div>
                         <div id="wb_indexCssMenu1" style="display:inline-block;width:100%;z-index:18;">
@@ -291,7 +271,7 @@
                     <div class="col-2">
                         <div id="wb_Text6">
                             <span style="color:#FFFFFF;font-family:Arial;font-size:19px;">
-                                <strong>Useful Links</strong>
+                                <strong>لینک های مفید</strong>
                             </span>
                         </div>
                         <div id="wb_indexCssMenu2" style="display:inline-block;width:100%;z-index:20;">
@@ -318,7 +298,7 @@
                         </div>
                         <div id="wb_indexText1">
                             <span style="color:#FFFFFF;font-family:Arial;font-size:19px;">
-                                <strong>More Stuff</strong>
+                                <strong>بیشتر</strong>
                             </span>
                         </div>
                         <div id="wb_indexCssMenu3" style="display:inline-block;width:100%;z-index:22;">
@@ -344,7 +324,7 @@
                     <div class="col-3">
                         <div id="wb_Text4">
                             <span style="color:#FFFFFF;font-family:Arial;font-size:19px;">
-                                <strong>Connect Us</strong>
+                                <strong>ارتباط با ما از شبکه های اجتماعی</strong>
                             </span>
                         </div>
                         <div id="wb_FontAwesomeIcon1" style="display:inline-block;width:16px;height:16px;text-align:center;z-index:24;">
@@ -384,19 +364,19 @@
                         </div>
                         <div id="wb_indexText2">
                             <span style="color:#FFFFFF;font-family:Arial;font-size:19px;">
-                                <strong>Newsletter</strong>
+                                <strong>خبرنامه</strong>
                             </span>
                         </div>
                         <div id="wb_indexCssMenu4" style="display:inline-block;width:100%;z-index:30;">
                             <ul id="indexCssMenu4" role="menubar" class="nav">
                                 <li role="menuitem" class="nav-item firstmain">
-                                    <a class="nav-link" href="" target="_self">SUBSCRIBE</a>
+                                    <a class="nav-link" href="" target="_self">خرید اشتراک</a>
                                 </li>
                             </ul>
                         </div>
                         <div id="wb_Text7">
                             <span style="color:#A6AEB1;font-family:Arial;font-size:13px;">
-                                <strong>Copyright © Footer 2018. All right reserved. </strong>
+                                <strong>Copyright © panisa cake 2022. All right reserved. </strong>
                             </span>
                         </div>
                     </div>
