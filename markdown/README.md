@@ -25,5 +25,5 @@ fontawesome/css/all.css
 ### link:css
 ```html
 <link rel="stylesheet" href="fontawesome/css/all.css"> <!-- fontawesome -->
-<link rel="stylesheet" href="css/bootstrap-icons.css">                   <!-- bootstrap -->
+<link rel="stylesheet" href="css/bootstrap-icons.css"> <!-- bootstrap -->
 ```
