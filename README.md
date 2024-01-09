@@ -1,25 +1,25 @@
 # [🚀View deployment](https://panisa-cake.github.io/)
 
 <a href="#">
-<img width="42.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panisa-cake&&title_color=&icon_color=63a2ff&text_color=fff&bg_color=0A0A0A&hide=css#%2Chtml&layout=compact" />
-<img width="55.8%" src="https://github-readme-stats.vercel.app/api?username=panisa-cake&&show_icons=true&title_color=&icon_color=63a2ff&text_color=ffffff&bg_color=0A0A0A&hide=contribs" />
+<img width="42.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raminiran&&title_color=&icon_color=63a2ff&text_color=fff&bg_color=0A0A0A&hide=css#%2Chtml&layout=compact" />
+<img width="55.8%" src="https://github-readme-stats.vercel.app/api?username=raminiran&&show_icons=true&title_color=&icon_color=63a2ff&text_color=ffffff&bg_color=0A0A0A&hide=contribs" />
 </a>
 <br />
 <br />
 <div align="rtl">
   
   
-|[edit-index](https://github.com/panisa-cake/panisa-cake.github.io/edit/main/index.html)|[edit-css-min](https://github.com/panisa-cake/panisa-cake.github.io/edit/main/css/panisa.css)|[css-all](https://github.com/panisa-cake/panisa-cake.github.io/tree/main/css/)|[ADD IMG](https://github.com/panisa-cake/panisa-cake.github.io/upload/main/images)|
+|[edit-index](https://github.com/raminiran/raminiran.github.io/edit/main/index.html)|[edit-css-min](https://github.com/raminiran/raminiran.github.io/edit/main/css/panisa.css)|[css-all](https://github.com/raminiran/raminiran.github.io/tree/main/css/)|[ADD IMG](https://github.com/raminiran/raminiran.github.io/upload/main/images)|
 |:---:|:---:|:---:|:---:|
-|[ADD PEG](https://github.com/panisa-cake/panisa-cake.github.io/new/main/p/)|[`SET-MIN`](set.html)|[`INDEX`](index.html)|[`CSS`](css/panisa.css)|
-|[hlep](https://github.com/panisa-cake/panisa-cake.github.io/tree/main/css#readmemd)|[text]()|[test]()|[images](https://github.com/panisa-cake/panisa-cake.github.io/tree/main/images)|
+|[ADD PEG](https://github.com/raminiran/raminiran.github.io/new/main/p/)|[`SET-MIN`](set.html)|[`INDEX`](index.html)|[`CSS`](css/panisa.css)|
+|[hlep](https://github.com/raminiran/raminiran.github.io/tree/main/css#readmemd)|[text]()|[test]()|[images](https://github.com/raminiran/raminiran.github.io/tree/main/images)|
 
 </div>
 <!--<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panisa-cake&title_color=79ff97&icon_color=63a2ff&text_color=fff&bg_color=151515&hide=css%2Chtml&layout=compact" /><img width="40%" src="https://github-readme-stats.vercel.app/api?username=panisa-cake&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=contribs" />-->
 
 <details>
 <summary> مخزن های دیگر</summary>
-<a href="https://github.com/panisa-cake/">panisa-cake</a>
+<a href="https://github.com/raminiran/">panisa-cake</a>
 <br />
 <a href="https://github.com/panisa-cake/panisa-cake/">panisa-cake-2</a>
 <br />
